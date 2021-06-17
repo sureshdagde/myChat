@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "myChat"
+  "defaultProject": "myChat",
+  "cli": {
+    "analytics": "51b4298d-c0f7-411f-ad8d-69b9ae807caf"
+  }
 }
